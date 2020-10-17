@@ -7,4 +7,4 @@ let multiply = num1 * num2
 let random = Math.random() 
 let max = Math.max(20) 
 
-let mod = 100 % 5 
+let mod = 20 % 5 
