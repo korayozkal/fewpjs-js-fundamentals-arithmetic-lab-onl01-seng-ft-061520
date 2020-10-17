@@ -1,7 +1,7 @@
 
 // Write your code here
 
-const var1 = 1
-let var2 = 62
-let multiply = var1 * var2
+const num1 = 1
+let num2 = 62
+let multiply = num1 * num2
 
